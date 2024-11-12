@@ -1,4 +1,4 @@
-# Quicksell-Frontend-Assignment
+# Quicksell-Assignment
 React-based interactive Kanban board application with dynamic grouping and ordering options, utilizing the Quicksell API for data.
 An interactive application using React JS that interacts with the provided API from  https://api.quicksell.co/v1/internal/frontend-assignment
 
@@ -41,7 +41,7 @@ Experience the application [here](https://janhavi-quicksell-assignment.vercel.ap
 
 ## Repository
 
-Find the source code on [GitHub](https://github.com/janhavisri1410/Quicksell-Frontend-Assignment).
+Find the source code on [GitHub](https://github.com/yuvihere23/Kanban-Board-Project).
 
 ## Tech Stack
 
